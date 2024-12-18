@@ -3,8 +3,9 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 125%;
-  color: #fbfbfb;
+  color: #111;
   margin: 0;
+  background-color: #d20808;
 }
 
 /* title for vegetables, reviews and your order  */
